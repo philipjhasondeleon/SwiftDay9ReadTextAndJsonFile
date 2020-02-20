@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		9B474D3823FDF3D200B31B78 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B474D3723FDF3D200B31B78 /* main.swift */; };
 		9B474D4023FDF77E00B31B78 /* data.txt in CopyFiles */ = {isa = PBXBuildFile; fileRef = 9B474D3E23FDF47900B31B78 /* data.txt */; };
+		9B474D4423FE028900B31B78 /* SingleUser.json in CopyFiles */ = {isa = PBXBuildFile; fileRef = 9B474D4323FE027500B31B78 /* SingleUser.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 7;
 			files = (
+				9B474D4423FE028900B31B78 /* SingleUser.json in CopyFiles */,
 				9B474D4023FDF77E00B31B78 /* data.txt in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -37,6 +39,7 @@
 		9B474D3423FDF3D200B31B78 /* SwiftDay9ReadTextAndJsonFile */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftDay9ReadTextAndJsonFile; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B474D3723FDF3D200B31B78 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		9B474D3E23FDF47900B31B78 /* data.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = data.txt; sourceTree = "<group>"; };
+		9B474D4323FE027500B31B78 /* SingleUser.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = SingleUser.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +74,7 @@
 			children = (
 				9B474D3723FDF3D200B31B78 /* main.swift */,
 				9B474D3E23FDF47900B31B78 /* data.txt */,
+				9B474D4323FE027500B31B78 /* SingleUser.json */,
 			);
 			path = SwiftDay9ReadTextAndJsonFile;
 			sourceTree = "<group>";
